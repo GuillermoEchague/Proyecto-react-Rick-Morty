@@ -76,7 +76,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Axios
 yarn add axios
 # node-sass
-yarn add node-sass
+yarn add node-sass@4.13.0
 # prop-types
 yarn add prop-types
 # react-router-dom
@@ -90,6 +90,17 @@ yarn add redux-devtools-extension
 # redux-logger
 yarn add redux-logger
 ```
+## Dependencias en producción del proyecto
+```bash
+
+```
+
+## Proyecto en producción en Versel
+
+```bash
+
+```
+
 
 ## Demostración del proyecto
 
