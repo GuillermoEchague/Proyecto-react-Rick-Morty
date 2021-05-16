@@ -23,10 +23,10 @@ const Header = () => {
                 />
             </figure>
             <nav className="header__nav">
-                <ul className="header__nav_options">
+                <ul className="header__nav__options">
                 <li
                     onClick={()=>handleSetSetion('Characters')}
-                    className={`header__nav_options-item ${
+                    className={`header__nav__options-item ${
                         sectionActive === 'Characters' ?
                         'active' : ''
                     }`}
@@ -35,7 +35,7 @@ const Header = () => {
                 </li>
                 <li 
                 onClick={()=>handleSetSetion('Favorites')}
-                className={`header__nav_options-item ${
+                className={`header__nav__options-item ${
                     sectionActive === 'Favorites' ?
                         'active' : ''
                 }`}

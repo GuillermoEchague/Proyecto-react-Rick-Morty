@@ -104,4 +104,8 @@ yarn add redux-logger
 
 ## Demostración del proyecto
 
-![](img/Rest.png)
+### Error
+![](img/error.png)
+
+### Character
+![](img/character.png)
