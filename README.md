@@ -122,6 +122,9 @@ git add .
 git checkout -b room
 git commit -m "Agregado de dependencias"
 git push origin room
+#Unir Ramas a main
+git merge <Nombre Rama> -m "Mensaje rama"
+git checkout main
 ```
 
 
