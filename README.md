@@ -1,3 +1,8 @@
+ webpack configuration and deploy vercel finished
+ good practices with code splitting, webpack configuration and babel
+ page favorites completed + custom hooks
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -109,3 +114,11 @@ yarn add redux-logger
 
 ### Character
 ![](img/character.png)
+
+### Detail
+![](img/detail1.png)
+![](img/detail2.png)
+
+### Favorites
+![](img/favorites1.png)
+![](img/favorites2.png)
