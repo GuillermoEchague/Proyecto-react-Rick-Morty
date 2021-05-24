@@ -106,6 +106,24 @@ yarn add redux-logger
 
 ```
 
+## Codigos GIT
+```bash
+# Revisar logs
+git log --pretty=oneline
+#Cargar cambios y versiones
+git branch -M main
+git push -u origin main
+# Generar Tags
+           (Version) 
+git tag -a V1.0.0 -m "Mensaje"
+git push --tags
+#branches (Ramas)
+git add .
+git checkout -b room
+git commit -m "Agregado de dependencias"
+git push origin room
+```
+
 
 ## Demostración del proyecto
 
