@@ -62,7 +62,7 @@ https://vercel.com/guillermoechague/redux-marzo-rick-and-morty/HtB6qnodf9VuLkGDC
 https://y-ten-delta.vercel.app
 ```
 
-## Ejecucón de proyecto
+## Ejecución de proyecto
 ```bash
 # Modo Development
 yarn start
